@@ -2,7 +2,7 @@
 
 
 ### Firmware
-* [SKR Bear Firmware](https://github.com/codiac2600/SKR-Bear-Marlin)
+* [Prusa All-in-One Marlin Firmware](https://github.com/thisiskeithb/Marlin/tree/prusa-aio/bugfix-2.0.x)
 * [Prusa Firmware](https://github.com/prusa3d/Prusa-Firmware)
 
 ### How-To
